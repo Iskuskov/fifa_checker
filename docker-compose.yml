@@ -1,3 +1,6 @@
+scrapper:
+  build: ./scrapper
+
 web:
   build: ./web
   ports:
